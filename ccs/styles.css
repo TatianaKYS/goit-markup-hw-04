@@ -428,6 +428,49 @@ font-family: 'Roboto', sans-serif;
         
 }
 
+.customers-list {
+
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.advantages-icon-link {
+
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 264px;
+        height: 112px;
+        background: #F4F4FD;
+     border-radius: 4px;
+}
+
+.advantages-icon-list {
+
+    display: flex;
+        justify-content: center;
+        gap: 24px;
+        margin-bottom: 8px;
+}
+
+.customers-list-icon {
+
+    fill: #8E8F99;
+    
+}
+
+.customers-list-link:hover .customers-list-icon,
+.customers-list-link:focus .customers-list-icon {
+
+    fill: #404BBF;
+}
+
+.customers-list-link:hover,
+.customers-list-link:focus  {
+
+    border: 1px solid #404BBF;
+}
 
 .social-media {
 font-family: 'Roboto', sans-serif;
