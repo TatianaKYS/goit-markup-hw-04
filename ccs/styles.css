@@ -364,7 +364,7 @@ font-family: 'Roboto', sans-serif;
     height: 603px;
     padding-top: 192px;
     padding-bottom: 192px;
-    background-image:linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(./images/hero/bg.jpg);
+    background-image:linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/hero/bg.jpg);
     background-size: cover;
     max-width: 1600px;
 
