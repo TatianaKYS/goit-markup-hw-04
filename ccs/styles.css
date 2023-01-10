@@ -357,9 +357,8 @@ font-family: 'Roboto', sans-serif;
 }
 
 .hero {
-    
-   
-   
+    margin-left: auto;
+    margin-right: auto;
     background-color :var(--main-text-color);
     height: 603px;
     padding-top: 192px;
